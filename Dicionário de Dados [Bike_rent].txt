@@ -1,3 +1,4 @@
+plotly
 DATASET Bike_Rent:
 
 O conjunto de dados é de uma empresa de aluguel de bicicletas, e a empresa deseja prever a demanda de bicicletas no futuro, considerando diversos fatores, como data, feriados, temperatura, humidade, velocidade do vento, quantidade total de bicicletas alugadas...
